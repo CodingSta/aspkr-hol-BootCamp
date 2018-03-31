@@ -1,4 +1,4 @@
-<%@ Page Language-"C#" %>
+<%@ Page Language="C#" %>
 <%
 string num = "1238";
 %>
